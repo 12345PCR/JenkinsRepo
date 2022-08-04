@@ -1,5 +1,5 @@
 public with sharing class HELLO {
-    public fdgdg() {
+    public HELLO() {
 // HELLO CHAKRI
     }
 }
